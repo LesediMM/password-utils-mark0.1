@@ -46,5 +46,8 @@ A full-stack password management platform offering secure password generation, s
 - Database: MongoDB Atlas
 - Deployment: Render
 
-## Repository Structure
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
